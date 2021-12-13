@@ -1,0 +1,17 @@
+{
+  "name": "day2-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
